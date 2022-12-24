@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=nul,CODECS="avc1.64001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,CODECS="avc1.64001e,mp4a.40.2"
 https://cb.fallakatv.eu.org/channels/ch.php?id=jalila12
